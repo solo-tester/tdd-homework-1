@@ -2,7 +2,7 @@
 The first seminar homework for the TDD lesson.
 
 
-## TODO
+## Tasks
 
 A: function: Int=>String
 * Ex.  1 = 'Odd1', 2 = 'Even2', 3 = 'Odd3', … 12 = 'Odd1Even2'
